@@ -26,13 +26,10 @@ This project demonstrates clean data handling, offline storage, state management
  <img width="400" height="600" alt="1" src="https://github.com/user-attachments/assets/b205608e-5185-4f0d-ad57-36641d338da0" />
 &nbsp; &nbsp;
   <img width="400" height="600" alt="2" src="https://github.com/user-attachments/assets/e851b9d2-b864-479c-8ca9-9c6ce0988d24" />
-  &nbsp; &nbsp;
-  <img width="400" height="600" alt="3" src="https://github.com/user-attachments/assets/b71aac89-5a1b-45d2-8776-e11bc808eee5" />
  </p>
  <br><br>
  <p align="center">
-
-
+ <img width="400" height="600" alt="3" src="https://github.com/user-attachments/assets/b71aac89-5a1b-45d2-8776-e11bc808eee5" />
   </p>
 
 
